@@ -1,0 +1,17 @@
+{
+  "name": "Gilson Coelho",
+  "app_id": "77429305",
+  "gulpStartupTasks": [
+    "build",
+    "sass",
+    "watch",
+    "lang",
+    "config"
+  ],
+  "watchPatterns": [
+    "www/**/*.html",
+    "www/build/**/*",
+    "www/index.html",
+    "!www/lib/**/*"
+  ]
+}
